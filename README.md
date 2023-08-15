@@ -1,2 +1,2 @@
 
-Programa pára hallar la traspuesta de una matriz
+Programa para hallar la traspuesta de una matriz.
